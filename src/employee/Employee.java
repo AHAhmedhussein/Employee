@@ -33,10 +33,6 @@ public class Employee {
     }
 }
 
-private void HelloWorld() {
-  system.out,printIn("HelloWorld")
-}
-
 
 // Main class to demonstrate usage
 
