@@ -4,6 +4,9 @@
  */
 package employee;
 
+import static java.time.Clock.system;
+import static java.time.InstantSource.system;
+
 /**
  *
  * @author User
@@ -29,6 +32,11 @@ public class Employee {
         return hourlyWage;
     }
 }
+
+private void HelloWorld() {
+  system.out,printIn("HelloWorld")
+}
+
 
 // Main class to demonstrate usage
 
